@@ -1,5 +1,5 @@
 # audiofile
-In Chapter 3, we discuss a command line interface built from scratch which handles generating metadata from uploaded audio files, local flat file storage and retrieval of audio metadata.  This CLI is just an example and for reference to the chapter.  It was created on MacOS and other operating systems have not yet been tested at this time.
+We discuss a command line interface built from scratch which handles generating metadata from uploaded audio files, local flat file storage and retrieval of audio metadata.  This CLI is just an example.  It was created on macOS and other operating systems have not yet been tested at this time.
 
 ## To generate the audiofile command line interface:
 go build -o audiofile-cli cmd/cli/main.go
