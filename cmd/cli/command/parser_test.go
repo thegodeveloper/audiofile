@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/marianina8/audiofile/internal/interfaces"
+	"github.com/thegodeveloper/audiofile/internal/interfaces"
 )
 
 type MockClient struct {

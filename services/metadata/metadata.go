@@ -1,8 +1,8 @@
 package metadata
 
 import (
-	"github.com/marianina8/audiofile/internal/interfaces"
-	"github.com/marianina8/audiofile/storage"
+	"github.com/thegodeveloper/audiofile/internal/interfaces"
+	"github.com/thegodeveloper/audiofile/storage"
 
 	"fmt"
 	"net/http"
